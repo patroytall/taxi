@@ -1,5 +1,4 @@
 # taxi
-Taxi dispatching Java code demonstration
 
 Application requirements:
 You will simulate a taxi dispatching station having a pool of taxis serving customers.
