@@ -1,4 +1,4 @@
-# taxi
+# taxi - incomplete - only a small amount of code has been implemented
 
 Application requirements:
 You will simulate a taxi dispatching station having a pool of taxis serving customers.
